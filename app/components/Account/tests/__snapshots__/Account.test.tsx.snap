@@ -1,0 +1,283 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Account /> should close Modal on click of cancel btn 1`] = `
+<div>
+  <div
+    class="sc-AykKC kHOAKO"
+  >
+    <div
+      class="sc-AykKE lphdsI"
+    >
+      <p
+        class="sc-AykKK ExoGy"
+      >
+        13535hr-35afa2-25252fa-26396ahb
+      </p>
+    </div>
+    <div
+      class="sc-AykKF dqtzlY"
+    >
+      <h4
+        class="sc-AykKH gMPxuo"
+      >
+        Test Account
+      </h4>
+      <p
+        class="sc-AykKI bEseiW"
+      >
+        Savings
+         account
+      </p>
+    </div>
+    <div
+      class="sc-AykKG dnAkcX"
+    >
+      <p
+        class="sc-AykKJ fWfswM"
+      >
+        $10,000.00
+      </p>
+      <i
+        aria-hidden="true"
+        class="send icon"
+        data-testid="send-icon"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Account /> should display exceed balance error if user inputs a value > balance in amount input field 1`] = `
+<div>
+  <div
+    class="sc-AykKC kHOAKO"
+  >
+    <div
+      class="sc-AykKE lphdsI"
+    >
+      <p
+        class="sc-AykKK ExoGy"
+      >
+        13535hr-35afa2-25252fa-26396ahb
+      </p>
+    </div>
+    <div
+      class="sc-AykKF dqtzlY"
+    >
+      <h4
+        class="sc-AykKH gMPxuo"
+      >
+        Test Account
+      </h4>
+      <p
+        class="sc-AykKI bEseiW"
+      >
+        Savings
+         account
+      </p>
+    </div>
+    <div
+      class="sc-AykKG dnAkcX"
+    >
+      <p
+        class="sc-AykKJ fWfswM"
+      >
+        $10,000.00
+      </p>
+      <i
+        aria-hidden="true"
+        class="send icon"
+        data-testid="send-icon"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Account /> should display non numeric error if user inputs non numeric value in amount input field 1`] = `
+<div>
+  <div
+    class="sc-AykKC kHOAKO"
+  >
+    <div
+      class="sc-AykKE lphdsI"
+    >
+      <p
+        class="sc-AykKK ExoGy"
+      >
+        13535hr-35afa2-25252fa-26396ahb
+      </p>
+    </div>
+    <div
+      class="sc-AykKF dqtzlY"
+    >
+      <h4
+        class="sc-AykKH gMPxuo"
+      >
+        Test Account
+      </h4>
+      <p
+        class="sc-AykKI bEseiW"
+      >
+        Savings
+         account
+      </p>
+    </div>
+    <div
+      class="sc-AykKG dnAkcX"
+    >
+      <p
+        class="sc-AykKJ fWfswM"
+      >
+        $10,000.00
+      </p>
+      <i
+        aria-hidden="true"
+        class="send icon"
+        data-testid="send-icon"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Account /> should display zero error if user inputs zero value in amount input field 1`] = `
+<div>
+  <div
+    class="sc-AykKC kHOAKO"
+  >
+    <div
+      class="sc-AykKE lphdsI"
+    >
+      <p
+        class="sc-AykKK ExoGy"
+      >
+        13535hr-35afa2-25252fa-26396ahb
+      </p>
+    </div>
+    <div
+      class="sc-AykKF dqtzlY"
+    >
+      <h4
+        class="sc-AykKH gMPxuo"
+      >
+        Test Account
+      </h4>
+      <p
+        class="sc-AykKI bEseiW"
+      >
+        Savings
+         account
+      </p>
+    </div>
+    <div
+      class="sc-AykKG dnAkcX"
+    >
+      <p
+        class="sc-AykKJ fWfswM"
+      >
+        $10,000.00
+      </p>
+      <i
+        aria-hidden="true"
+        class="send icon"
+        data-testid="send-icon"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Account /> should open Modal on click 1`] = `
+<div>
+  <div
+    class="sc-AykKC kHOAKO"
+  >
+    <div
+      class="sc-AykKE lphdsI"
+    >
+      <p
+        class="sc-AykKK ExoGy"
+      >
+        13535hr-35afa2-25252fa-26396ahb
+      </p>
+    </div>
+    <div
+      class="sc-AykKF dqtzlY"
+    >
+      <h4
+        class="sc-AykKH gMPxuo"
+      >
+        Test Account
+      </h4>
+      <p
+        class="sc-AykKI bEseiW"
+      >
+        Savings
+         account
+      </p>
+    </div>
+    <div
+      class="sc-AykKG dnAkcX"
+    >
+      <p
+        class="sc-AykKJ fWfswM"
+      >
+        $10,000.00
+      </p>
+      <i
+        aria-hidden="true"
+        class="send icon"
+        data-testid="send-icon"
+      />
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Account /> should render the various inner Elements 1`] = `
+<div>
+  <div
+    class="sc-AykKC kHOAKO"
+  >
+    <div
+      class="sc-AykKE lphdsI"
+    >
+      <p
+        class="sc-AykKK ExoGy"
+      >
+        13535hr-35afa2-25252fa-26396ahb
+      </p>
+    </div>
+    <div
+      class="sc-AykKF dqtzlY"
+    >
+      <h4
+        class="sc-AykKH gMPxuo"
+      >
+        Test Account
+      </h4>
+      <p
+        class="sc-AykKI bEseiW"
+      >
+        Savings
+         account
+      </p>
+    </div>
+    <div
+      class="sc-AykKG dnAkcX"
+    >
+      <p
+        class="sc-AykKJ fWfswM"
+      >
+        $10,000.00
+      </p>
+      <i
+        aria-hidden="true"
+        class="send icon"
+        data-testid="send-icon"
+      />
+    </div>
+  </div>
+</div>
+`;

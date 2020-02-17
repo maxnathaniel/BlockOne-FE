@@ -1,0 +1,159 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<AccountPage /> should open Add Account Modal on click of Add Btn 1`] = `
+<div>
+  <div
+    class="sc-AykKG OdUwQ"
+  >
+    <div
+      class="sc-AykKC ePKNZv"
+    >
+      <h3
+        class="sc-AykKD cYEpnF"
+      >
+        Welcome back!
+      </h3>
+      <p
+        class="sc-AykKE bkDhgi"
+      >
+        Create a new account by clicking on the button below
+      </p>
+      <div
+        class="sc-AykKF jvvefI"
+      >
+        <button
+          class="ui teal medium button"
+          name="Create New Account"
+        >
+          Create New Account
+        </button>
+      </div>
+    </div>
+    <div
+      class="sc-AykKH hLQGxy"
+    >
+      <div
+        class="sc-fzXfLO dZfGKo"
+      >
+        <div
+          class="sc-fzXfLQ iprOSq"
+        >
+          <p
+            class="sc-fzXfLW iASfNc"
+          >
+            13535hr-35afa2-25252fa-26396ahb
+          </p>
+        </div>
+        <div
+          class="sc-fzXfLR jCJQRO"
+        >
+          <h4
+            class="sc-fzXfLT ipalgS"
+          >
+            Block One Savings
+          </h4>
+          <p
+            class="sc-fzXfLU jtdEZA"
+          >
+            Savings
+             account
+          </p>
+        </div>
+        <div
+          class="sc-fzXfLS lflAaF"
+        >
+          <p
+            class="sc-fzXfLV iKPxLq"
+          >
+            $100,000.00
+          </p>
+          <i
+            aria-hidden="true"
+            class="send icon"
+            data-testid="send-icon"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<AccountPage /> should render the various inner Elements 1`] = `
+<div>
+  <div
+    class="sc-AykKG OdUwQ"
+  >
+    <div
+      class="sc-AykKC ePKNZv"
+    >
+      <h3
+        class="sc-AykKD cYEpnF"
+      >
+        Welcome back!
+      </h3>
+      <p
+        class="sc-AykKE bkDhgi"
+      >
+        Create a new account by clicking on the button below
+      </p>
+      <div
+        class="sc-AykKF jvvefI"
+      >
+        <button
+          class="ui teal medium button"
+          name="Create New Account"
+        >
+          Create New Account
+        </button>
+      </div>
+    </div>
+    <div
+      class="sc-AykKH hLQGxy"
+    >
+      <div
+        class="sc-fzXfLO dZfGKo"
+      >
+        <div
+          class="sc-fzXfLQ iprOSq"
+        >
+          <p
+            class="sc-fzXfLW iASfNc"
+          >
+            13535hr-35afa2-25252fa-26396ahb
+          </p>
+        </div>
+        <div
+          class="sc-fzXfLR jCJQRO"
+        >
+          <h4
+            class="sc-fzXfLT ipalgS"
+          >
+            Block One Savings
+          </h4>
+          <p
+            class="sc-fzXfLU jtdEZA"
+          >
+            Savings
+             account
+          </p>
+        </div>
+        <div
+          class="sc-fzXfLS lflAaF"
+        >
+          <p
+            class="sc-fzXfLV iKPxLq"
+          >
+            $100,000.00
+          </p>
+          <i
+            aria-hidden="true"
+            class="send icon"
+            data-testid="send-icon"
+          />
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

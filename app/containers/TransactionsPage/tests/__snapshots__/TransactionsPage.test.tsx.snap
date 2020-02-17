@@ -1,0 +1,61 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TransactionsPage /> should render the various inner Elements 1`] = `
+<div>
+  <div
+    class="sc-AykKH qJuqI"
+  >
+    <div
+      class="sc-AykKI fPmKgx"
+    >
+      <h2
+        class="sc-AykKJ cYSRWo"
+      >
+        Block One Savings
+      </h2>
+      <h3
+        class="sc-AykKK fWKuqF"
+      >
+        $100,000.00
+      </h3>
+    </div>
+    <div
+      class="sc-fzXfLO eyrABY"
+    >
+      <div
+        class="sc-AykKC iLtsOi"
+      >
+        <div
+          class="sc-AykKD dOvTbI"
+        >
+          <p
+            class="sc-AykKE PnnHt"
+          >
+            Timestamp
+          </p>
+          <p
+            class="sc-AykKE PnnHt"
+          >
+            Action
+          </p>
+          <p
+            class="sc-AykKE PnnHt"
+          >
+            Description
+          </p>
+          <p
+            class="sc-AykKE PnnHt"
+          >
+            Amount
+          </p>
+          <p
+            class="sc-AykKE PnnHt"
+          >
+            Currency
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

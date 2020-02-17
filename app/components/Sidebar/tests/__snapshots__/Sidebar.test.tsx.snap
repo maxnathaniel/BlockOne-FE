@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Sidebar /> should render the menu items 1`] = `
+<div>
+  <div
+    class="sc-AykKF CoKPR"
+  >
+    <ul
+      class="sc-AykKD hrORuh"
+    >
+      <li
+        class="sc-AykKE hUuNdQ"
+      >
+        <a
+          data-val="ACCOUNTS"
+          href="/"
+        >
+          Accounts
+        </a>
+      </li>
+      <li
+        class="sc-AykKE tANiE"
+      >
+        <a
+          data-val="TRANSACTIONS"
+          href="/transactions"
+        >
+          Transactions
+        </a>
+      </li>
+      <li
+        class="sc-AykKE tANiE"
+      >
+        <a
+          data-val="SERVICES"
+          href="/services"
+        >
+          Services
+        </a>
+      </li>
+      <li
+        class="sc-AykKE tANiE"
+      >
+        <a
+          data-val="INVESTMENT"
+          href="/investment"
+        >
+          Investment
+        </a>
+      </li>
+      <li
+        class="sc-AykKE tANiE"
+      >
+        <a
+          data-val="LOANS"
+          href="/loans"
+        >
+          Loans
+        </a>
+      </li>
+    </ul>
+  </div>
+</div>
+`;

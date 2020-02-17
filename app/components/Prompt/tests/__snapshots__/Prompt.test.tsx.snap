@@ -1,0 +1,59 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Prompt /> should invoke onClickHandlerFun on click 1`] = `
+<div>
+  <div
+    class="sc-AykKC ePKNZv"
+  >
+    <h3
+      class="sc-AykKD cYEpnF"
+    >
+      Test Header
+    </h3>
+    <p
+      class="sc-AykKE bkDhgi"
+    >
+      Welcome
+    </p>
+    <div
+      class="sc-AykKF jvvefI"
+    >
+      <button
+        class="ui teal medium button"
+        name="Create New Account"
+      >
+        Create New Account
+      </button>
+    </div>
+  </div>
+</div>
+`;
+
+exports[`<Prompt /> should render the various inner Elements 1`] = `
+<div>
+  <div
+    class="sc-AykKC ePKNZv"
+  >
+    <h3
+      class="sc-AykKD cYEpnF"
+    >
+      Test Header
+    </h3>
+    <p
+      class="sc-AykKE bkDhgi"
+    >
+      Welcome
+    </p>
+    <div
+      class="sc-AykKF jvvefI"
+    >
+      <button
+        class="ui teal medium button"
+        name="Create New Account"
+      >
+        Create New Account
+      </button>
+    </div>
+  </div>
+</div>
+`;
